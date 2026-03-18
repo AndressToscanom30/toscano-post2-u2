@@ -1,6 +1,6 @@
 package edu.sistemas.u2.algorithms;
 
-public class HeapSort {
+public final class HeapSort {
     private HeapSort() {
     }
 
